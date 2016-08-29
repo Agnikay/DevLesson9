@@ -1,0 +1,6 @@
+D:\MC\Lectures\Dev\Lesson9_adonet_disconnected\LessonCode\LessonCode\bin\Debug\LessonCode.exe.config
+D:\MC\Lectures\Dev\Lesson9_adonet_disconnected\LessonCode\LessonCode\bin\Debug\LessonCode.exe
+D:\MC\Lectures\Dev\Lesson9_adonet_disconnected\LessonCode\LessonCode\bin\Debug\LessonCode.pdb
+D:\MC\Lectures\Dev\Lesson9_adonet_disconnected\LessonCode\LessonCode\obj\Debug\LessonCode.csprojResolveAssemblyReference.cache
+D:\MC\Lectures\Dev\Lesson9_adonet_disconnected\LessonCode\LessonCode\obj\Debug\LessonCode.exe
+D:\MC\Lectures\Dev\Lesson9_adonet_disconnected\LessonCode\LessonCode\obj\Debug\LessonCode.pdb
